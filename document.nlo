@@ -1,0 +1,8 @@
+\nomenclatureentry{a$\theta$@[{$\theta$}]\begingroup Attitude Angle (rad)\nomeqref {2}|nompageref}{4}
+\nomenclatureentry{a$\dot{\theta}$@[{$\dot{\theta}$}]\begingroup Attitude Angle Rate (rad/s)\nomeqref {2}|nompageref}{4}
+\nomenclatureentry{a$\theta_{PG}$@[{$\theta_{PG}$}]\begingroup Position Gyro Output (rad)\nomeqref {2}|nompageref}{4}
+\nomenclatureentry{a$\theta_{RG}$@[{$\theta_{RG}$}]\begingroup Rate Gyro Output (rad/s)\nomeqref {2}|nompageref}{4}
+\nomenclatureentry{a$\dot{\theta}_{RG}$@[{$\dot{\theta}_{RG}$}]\begingroup Derivative of Rate Gyro Output (rad/$s^2$)\nomeqref {2}|nompageref}{4}
+\nomenclatureentry{a$\delta$@[{$\delta$}]\begingroup Engine Deflection Angle or Gimbal Angle (rad)\nomeqref {3}|nompageref}{4}
+\nomenclatureentry{a$\alpha$@[{$\alpha$}]\begingroup Angle of Attack (rad)\nomeqref {3}|nompageref}{4}
+\nomenclatureentry{a$W_v$@[{$W_v$}]\begingroup Lateral Velocity due to wind (ft/s)\nomeqref {3}|nompageref}{4}
